@@ -9,7 +9,7 @@
 This game is built using JavaScript, HTML5 Canvas and BoxBox Physics Engine that is built on top of Box2D Physics Engine. The game features a Pokemon Trainer who's objective is to capture all the Legendary Pokemons (Zapdos, Articuno and Moltress). However, there is a pesky Zubat flying around that will end the game when captured.
 
 Game Preview:
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Birds spawn and fly across the screen from left and right")
+![alt text](https://github.com/veechau/Legendary-Birds/blob/master/assets/images/game-preview.png "Birds spawn and fly across the screen from left and right")
 
 
 ## Instructions
@@ -78,6 +78,19 @@ In addition, sprites would not render when too many entities were created in the
 
 * BoxBox Physics Engine
 * SweetAlert
+
+### Sprite Credits
+
+* [Pokemon Sprites][pokemonSpritesResource]
+* [Angle Dial Sprites][DialsSprite]
+* [Ash Sprites][ashResource]
+* [Sunny Background][sunnyBackgroundResource]
+* [Pikachu Background][pikachuBGResource]
+[pokemonSpritesResource]: http://www.spriters-resource.com/ds/pokemonrangertol/?source=genre
+[DialsSprite]: http://sircornedbeef.portfoliobox.me/
+[ashResource]: http://www.pokecommunity.com/
+[sunnyBackgroundResource]: http://www.keyword-suggestions.com/
+[pikachuBGResource]: http://www.easyfreepatterns.com/
 
 ### More to come
 * Sprites to include more obvious capture animation
