@@ -85,12 +85,11 @@ In addition, sprites would not render when too many entities were created in the
 * [Angle Dial Sprites][DialsSprite]
 * [Ash Sprites][ashResource]
 * [Sunny Background][sunnyBackgroundResource]
-* [Pikachu Background][pikachuBGResource]
 [pokemonSpritesResource]: http://www.spriters-resource.com/ds/pokemonrangertol/?source=genre
 [DialsSprite]: http://sircornedbeef.portfoliobox.me/
 [ashResource]: http://www.pokecommunity.com/
 [sunnyBackgroundResource]: http://www.keyword-suggestions.com/
-[pikachuBGResource]: http://www.easyfreepatterns.com/
+
 
 ### More to come
 * Sprites to include more obvious capture animation
