@@ -1,0 +1,23 @@
+{
+  "name": "JavascriptGame",
+  "version": "1.0.0",
+  "description": "[Legendary Bird Live][githubPages]",
+  "main": "Box2dWeb-2.1.a.3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veechau/Legendary-Birds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veechau/Legendary-Birds/issues"
+  },
+  "homepage": "https://github.com/veechau/Legendary-Birds#readme",
+  "dependencies": {
+    "sweetalert": "^1.1.3"
+  }
+}
